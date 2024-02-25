@@ -1,0 +1,588 @@
+{
+  "vaultName": "cheyennix.github.io_LOCAL",
+  "lastExport": 1708826771241,
+  "pluginVersion": "1.8.0",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "About Me/resources/chey_faves.png",
+    "About Me/About Me.md",
+    "Creations/Art/2024/01/resources/BURNED.png",
+    "Creations/Art/2024/01/resources/lamb_and_kat.png",
+    "Creations/Art/2024/01/resources/liftoff.png",
+    "Creations/Art/2024/01/resources/outrun.png",
+    "Creations/Art/2024/01/resources/socks_on.png",
+    "Creations/Art/2024/01/01 - Liftoff.md",
+    "Creations/Art/2024/01/02 - BURNED.md",
+    "Creations/Art/2024/01/03 - OUTRUN.md",
+    "Creations/Art/2024/01/04 - lamb and kat.md",
+    "Creations/Art/2024/01/05 - socks on.md",
+    "Creations/Art/2024/02/resources/bolt.png",
+    "Creations/Art/2024/02/resources/dyrrrrwt.png",
+    "Creations/Art/2024/02/resources/krita_sfTfwGm62C.png",
+    "Creations/Art/2024/02/resources/nikki.png",
+    "Creations/Art/2024/02/resources/rings.png",
+    "Creations/Art/2024/02/06 - DYRRRRWT.md",
+    "Creations/Art/2024/02/07 - bolt.md",
+    "Creations/Art/2024/02/08 - creature.md",
+    "Creations/Art/2024/02/09 - rings.md",
+    "Creations/Art/2024/02/10 - Checkered Tile Path.md",
+    "Creations/Art/2024/List of Art Created in 2024.md",
+    "Creations/Music/2024/01/01 - Song 1.md",
+    "Creations/Music/2024/List of Music Created in 2024.md",
+    "Creations/Creations.md",
+    "Links/Links.md",
+    "Patch Notes/Patch Notes.md",
+    "Support/Support.md",
+    "Thoughts/2024/01/01 - The First Ever Thought In The History Of Humanity.md",
+    "Thoughts/2024/List of Thoughts Thought of in 2024.md",
+    "Thoughts/Thoughts.md",
+    "index.md",
+    "README.md",
+    "Site Canvas.canvas",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "About Me/resources/chey_faves.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1264666,
+      "exportedPath": "about-me/resources/chey_faves.png",
+      "dependencies": []
+    },
+    "About Me/About Me.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 2908,
+      "exportedPath": "about-me/about-me.html",
+      "dependencies": [
+        "about-me/resources/chey_faves.png"
+      ]
+    },
+    "Creations/Art/2024/01/resources/BURNED.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1186143,
+      "exportedPath": "creations/art/2024/01/resources/burned.png",
+      "dependencies": []
+    },
+    "Creations/Art/2024/01/resources/lamb_and_kat.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 671162,
+      "exportedPath": "creations/art/2024/01/resources/lamb_and_kat.png",
+      "dependencies": []
+    },
+    "Creations/Art/2024/01/resources/liftoff.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 170215,
+      "exportedPath": "creations/art/2024/01/resources/liftoff.png",
+      "dependencies": []
+    },
+    "Creations/Art/2024/01/resources/outrun.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 2371874,
+      "exportedPath": "creations/art/2024/01/resources/outrun.png",
+      "dependencies": []
+    },
+    "Creations/Art/2024/01/resources/socks_on.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1133911,
+      "exportedPath": "creations/art/2024/01/resources/socks_on.png",
+      "dependencies": []
+    },
+    "Creations/Art/2024/01/01 - Liftoff.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1280,
+      "exportedPath": "creations/art/2024/01/01-liftoff.html",
+      "dependencies": [
+        "creations/art/2024/01/resources/liftoff.png",
+        "creations/art/2024/01/resources/liftoff.png"
+      ]
+    },
+    "Creations/Art/2024/01/02 - BURNED.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1333,
+      "exportedPath": "creations/art/2024/01/02-burned.html",
+      "dependencies": [
+        "creations/art/2024/01/resources/burned.png",
+        "creations/art/2024/01/resources/burned.png"
+      ]
+    },
+    "Creations/Art/2024/01/03 - OUTRUN.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 842,
+      "exportedPath": "creations/art/2024/01/03-outrun.html",
+      "dependencies": [
+        "creations/art/2024/01/resources/outrun.png",
+        "creations/art/2024/01/resources/outrun.png"
+      ]
+    },
+    "Creations/Art/2024/01/04 - lamb and kat.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1008,
+      "exportedPath": "creations/art/2024/01/04-lamb-and-kat.html",
+      "dependencies": [
+        "creations/art/2024/01/resources/lamb_and_kat.png",
+        "creations/art/2024/01/resources/lamb_and_kat.png"
+      ]
+    },
+    "Creations/Art/2024/01/05 - socks on.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1413,
+      "exportedPath": "creations/art/2024/01/05-socks-on.html",
+      "dependencies": [
+        "creations/art/2024/01/resources/socks_on.png",
+        "creations/art/2024/01/resources/socks_on.png"
+      ]
+    },
+    "Creations/Art/2024/02/resources/bolt.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 98805,
+      "exportedPath": "creations/art/2024/02/resources/bolt.png",
+      "dependencies": []
+    },
+    "Creations/Art/2024/02/resources/dyrrrrwt.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 212335,
+      "exportedPath": "creations/art/2024/02/resources/dyrrrrwt.png",
+      "dependencies": []
+    },
+    "Creations/Art/2024/02/resources/krita_sfTfwGm62C.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 14672,
+      "exportedPath": "creations/art/2024/02/resources/krita_sftfwgm62c.png",
+      "dependencies": []
+    },
+    "Creations/Art/2024/02/resources/nikki.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 714203,
+      "exportedPath": "creations/art/2024/02/resources/nikki.png",
+      "dependencies": []
+    },
+    "Creations/Art/2024/02/resources/rings.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 49868,
+      "exportedPath": "creations/art/2024/02/resources/rings.png",
+      "dependencies": []
+    },
+    "Creations/Art/2024/02/06 - DYRRRRWT.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1755,
+      "exportedPath": "creations/art/2024/02/06-dyrrrrwt.html",
+      "dependencies": [
+        "creations/art/2024/02/resources/dyrrrrwt.png",
+        "creations/art/2024/02/resources/dyrrrrwt.png"
+      ]
+    },
+    "Creations/Art/2024/02/07 - bolt.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 711,
+      "exportedPath": "creations/art/2024/02/07-bolt.html",
+      "dependencies": [
+        "creations/art/2024/02/resources/bolt.png",
+        "creations/art/2024/02/resources/bolt.png"
+      ]
+    },
+    "Creations/Art/2024/02/08 - creature.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 331,
+      "exportedPath": "creations/art/2024/02/08-creature.html",
+      "dependencies": [
+        "creations/art/2024/02/resources/krita_sftfwgm62c.png"
+      ]
+    },
+    "Creations/Art/2024/02/09 - rings.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 441,
+      "exportedPath": "creations/art/2024/02/09-rings.html",
+      "dependencies": [
+        "creations/art/2024/02/resources/rings.png"
+      ]
+    },
+    "Creations/Art/2024/02/10 - Checkered Tile Path.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 963,
+      "exportedPath": "creations/art/2024/02/10-checkered-tile-path.html",
+      "dependencies": [
+        "creations/art/2024/02/resources/nikki.png"
+      ]
+    },
+    "Creations/Art/2024/List of Art Created in 2024.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1360,
+      "exportedPath": "creations/art/2024/list-of-art-created-in-2024.html",
+      "dependencies": []
+    },
+    "Creations/Music/2024/01/01 - Song 1.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 219,
+      "exportedPath": "creations/music/2024/01/01-song-1.html",
+      "dependencies": []
+    },
+    "Creations/Music/2024/List of Music Created in 2024.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 701,
+      "exportedPath": "creations/music/2024/list-of-music-created-in-2024.html",
+      "dependencies": []
+    },
+    "Creations/Creations.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 536,
+      "exportedPath": "creations/creations.html",
+      "dependencies": []
+    },
+    "Links/Links.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 592,
+      "exportedPath": "links/links.html",
+      "dependencies": []
+    },
+    "Patch Notes/Patch Notes.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 656,
+      "exportedPath": "patch-notes/patch-notes.html",
+      "dependencies": []
+    },
+    "Support/Support.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 158,
+      "exportedPath": "support/support.html",
+      "dependencies": []
+    },
+    "Thoughts/2024/01/01 - The First Ever Thought In The History Of Humanity.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 7672,
+      "exportedPath": "thoughts/2024/01/01-the-first-ever-thought-in-the-history-of-humanity.html",
+      "dependencies": []
+    },
+    "Thoughts/2024/List of Thoughts Thought of in 2024.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 596,
+      "exportedPath": "thoughts/2024/list-of-thoughts-thought-of-in-2024.html",
+      "dependencies": []
+    },
+    "Thoughts/Thoughts.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 397,
+      "exportedPath": "thoughts/thoughts.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1561,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 55,
+      "exportedPath": "readme.html",
+      "dependencies": []
+    },
+    "Site Canvas.canvas": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 2480,
+      "exportedPath": "site-canvas.html",
+      "dependencies": [
+        "about-me/resources/chey_faves.png"
+      ]
+    },
+    "about-me/resources/chey_faves.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1264666,
+      "exportedPath": "about-me/resources/chey_faves.png",
+      "dependencies": []
+    },
+    "creations/art/2024/01/resources/liftoff.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 170215,
+      "exportedPath": "creations/art/2024/01/resources/liftoff.png",
+      "dependencies": []
+    },
+    "creations/art/2024/01/resources/burned.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1186143,
+      "exportedPath": "creations/art/2024/01/resources/burned.png",
+      "dependencies": []
+    },
+    "creations/art/2024/01/resources/outrun.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 2371874,
+      "exportedPath": "creations/art/2024/01/resources/outrun.png",
+      "dependencies": []
+    },
+    "creations/art/2024/01/resources/lamb_and_kat.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 671162,
+      "exportedPath": "creations/art/2024/01/resources/lamb_and_kat.png",
+      "dependencies": []
+    },
+    "creations/art/2024/01/resources/socks_on.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1133911,
+      "exportedPath": "creations/art/2024/01/resources/socks_on.png",
+      "dependencies": []
+    },
+    "creations/art/2024/02/resources/dyrrrrwt.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 212335,
+      "exportedPath": "creations/art/2024/02/resources/dyrrrrwt.png",
+      "dependencies": []
+    },
+    "creations/art/2024/02/resources/bolt.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 98805,
+      "exportedPath": "creations/art/2024/02/resources/bolt.png",
+      "dependencies": []
+    },
+    "creations/art/2024/02/resources/krita_sftfwgm62c.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 14672,
+      "exportedPath": "creations/art/2024/02/resources/krita_sftfwgm62c.png",
+      "dependencies": []
+    },
+    "creations/art/2024/02/resources/rings.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 49868,
+      "exportedPath": "creations/art/2024/02/resources/rings.png",
+      "dependencies": []
+    },
+    "creations/art/2024/02/resources/nikki.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 714203,
+      "exportedPath": "creations/art/2024/02/resources/nikki.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 24292,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 2211,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 37375,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 5881,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1708826771241,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
